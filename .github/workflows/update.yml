@@ -2,7 +2,6 @@
 
 on:
   schedule:
-     every minutes the job will run
     - cron: "* * * * *"
   push:
     branches:
