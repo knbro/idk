@@ -1,4 +1,4 @@
-name: live-score-update
+# name: live-score-update
 
 on:
   #schedule:
